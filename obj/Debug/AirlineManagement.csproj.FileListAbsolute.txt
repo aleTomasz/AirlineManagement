@@ -1,0 +1,7 @@
+C:\Users\wiatr\source\repos\AirlineManagement\bin\Debug\AirlineManagement.exe.config
+C:\Users\wiatr\source\repos\AirlineManagement\bin\Debug\AirlineManagement.exe
+C:\Users\wiatr\source\repos\AirlineManagement\bin\Debug\AirlineManagement.pdb
+C:\Users\wiatr\source\repos\AirlineManagement\obj\Debug\AirlineManagement.csproj.AssemblyReference.cache
+C:\Users\wiatr\source\repos\AirlineManagement\obj\Debug\AirlineManagement.csproj.CoreCompileInputs.cache
+C:\Users\wiatr\source\repos\AirlineManagement\obj\Debug\AirlineManagement.exe
+C:\Users\wiatr\source\repos\AirlineManagement\obj\Debug\AirlineManagement.pdb
